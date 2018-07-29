@@ -1,2 +1,3 @@
 # hello-world
-this is my first repository
+I like My Little Ponies, Regina Spektor, Beirut, and Game of Thrones books. I don't draw enough. 
+Snow is wonderful.
